@@ -1,0 +1,456 @@
+/**
+ * Theme Name:      Zona - Music WordPress Theme
+ * Theme Author:    Mariusz Rek - Rascals Themes
+ * Theme URI:       http://rascals.eu/zona
+ * Author URI:      http://rascals.eu
+ * File:            theme-style-dark.css
+ * =========================================================================================================================================
+ *
+ * @package zona
+ * @since 1.0.0
+ */
+
+body {
+    color: #ccc;
+    background: #131415;
+}
+a:hover, a > *:hover {
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+blockquote p {
+    color: #747677;
+}
+
+/* Forms */
+label {
+    color: #999;
+}
+*::-webkit-input-placeholder {
+    color: #aaa;
+    font-weight: 300;
+}
+*:-moz-placeholder {
+
+    /* FF 4-18 */
+    color: #aaa;
+    font-weight: 300;
+}
+*::-moz-placeholder {
+
+    /* FF 19+ */
+    color: #aaa;
+    font-weight: 300;
+}
+*:-ms-input-placeholder {
+
+    /* IE 10+ */
+    color: #aaa;
+    font-weight: 300;
+}
+input, textarea, select {
+    border: 1px solid #444;
+    color: #fff;
+}
+select {
+    background-color: transparent;
+}
+select option {
+    background-color: #111;
+    color: #ddd;
+}
+
+/* Pagination */
+.paging-navigation .page-numbers {
+    color: #fff;
+}
+.paging-navigation .page-numbers.current, .paging-navigation a:hover {
+    background: #333;
+}
+
+/* Custom navigation */
+.custom-post-nav {
+    color: #ccc;
+    background:#131415
+}
+.custom-post-nav:hover {
+    background-color: #1a1b1c
+}
+.custom-post-nav a {
+    color: #fff;
+}
+.custom-post-nav:hover a {
+    color: #fff
+}
+
+/* Header */
+.header--moving {
+    background-color: #131415;
+}
+.header a.btn--frame {
+    border-color: #222;
+}
+.header a.btn--frame.btn--dark span:first-child {
+    border-color: #222;
+}
+.header .btn--frame.btn--dark span:first-child:after, .header .btn--frame.btn--dark span:first-child:before {
+    background: #222;
+}
+.btn--icon-square .icon {
+    color: #fff;
+}
+.header .header--social a {
+    opacity:1;
+}
+.header-advanced .header--social a {
+    opacity:0.6
+}
+.header-advanced .header--social a:hover {
+    opacity:1
+}
+.header .header--social a:hover span {
+    color:#fff
+}
+/* header styles */
+.header-fixed .main-header .header--wrap {
+    background: #131415;
+}
+
+
+/* Nav */
+.nav--wrapper {
+    border-top: 1px solid #222;
+}
+#nav a {
+    color: #fff;
+    letter-spacing:0.12em
+}
+#nav .active > a, #nav .current > a, #nav a:hover {
+    color: #fff;
+}
+#nav > ul > li > a:before {
+    border-bottom: 10px solid #4b4e50;
+}
+#nav ul ul {
+    border-top: 3px solid #222;
+    border-bottom: 3px solid #222;
+    background: #333;
+}
+#nav ul ul a {
+    color: #aaa;
+}
+#nav ul li.current-menu-parent ul a {
+    color: #aaa;
+}
+#nav ul ul a:hover, #nav ul ul .hover > a, #nav ul ul .current > a:hover, #nav ul ul a.selected {
+    color: #fff;
+}
+#nav ul ul .active > a, #nav ul ul a:hover {
+    color: #fff;
+}
+#nav ul ul .current > a, #nav ul ul li.current-menu-item a {
+}
+#nav ul ul li.current-menu-item a {
+    color: #fff;
+}
+.nav--responsive-trigger .icon {
+    background: #fff;
+}
+.nav--responsive-trigger .icon:before, .nav--responsive-trigger .icon:after {
+    background-color: #fff;
+}
+
+/* Header top wrap */
+.header--top-bar .lang-selector ul li {
+    color:#fff;
+}
+.header--top-bar .lang-selector ul li a {
+    color:#999;
+}
+.header--top-bar .lang-selector ul li a:hover {
+    color:#fff;
+}
+.header--top-bar .lang-selector ul li:after {
+
+}
+.header-style-5 .main-header .header--top-wrap,
+.header-style-6 .main-header .header--top-wrap {
+    background-color: #2b2c2e;
+}
+.main-header .btn--icon:hover span {
+    color:#fff;
+}
+.header-advanced .header--buttons .btn--icon:first-child,
+.header-simple .header--buttons .btn--icon:first-child  {
+    border-left:1px solid #222;
+    padding-left: 30px;
+}
+.header-advanced .nav--wrapper,
+.header-simple .nav--wrapper {
+    border-bottom: 1px solid #222;
+}
+
+
+/* Intro */
+.intro--simple-page-title h1 {
+    color: #fff;
+}
+.intro--music-wrapper {
+    background-color: #171819;
+}
+.intro--music-footer {
+    border-top: 1px solid #222;
+}
+.intro--music-footer .music-footer-title {
+    color: #999;
+    font-weight:400;
+}
+.intro--music-footer .share-button span {
+    color: #fff;
+}
+
+/* Blog */
+.page-template-blog-grid .content {
+    background: transparent
+}
+.content.blog--list {
+    background: transparent;
+}
+.blog--list .sidebar--wrap:after {
+    background:#171819;
+}
+.blog--list .main:after {
+    background: #171819;
+}
+.blog--grid article h2,
+.blog--grid article h2 a,
+.blog--list article h2,
+.blog--list article h2 a  {
+    color:#fff;
+}
+
+/* Buttons&Links */
+.btn--social span {
+    color: #fff;
+}
+.btn--icon span {
+    color: #fff;
+}
+input[type="submit"]:hover, button:hover {
+    background-color: #333;
+}
+input[type="submit"]:after, button:after, .btn:after, .widget .btn:after, input[type="submit"]:before, button:before, .btn:before, .widget .btn:before {
+    background: #333;
+}
+.btn--frame:after, .btn--frame:before {
+    background:none;
+}
+.load-more.btn--frame.btn--dark {
+    border-color: #999;
+    color: #999;
+    background: transparent;
+}
+.load-more.btn--frame.btn--dark:hover {
+   color: #999;
+}
+.load-more.btn--frame.btn--dark span:first-child {
+    border-right: solid 2px #999;
+}
+.load-more.btn--frame.btn--dark span:first-child:after, .load-more.btn--frame.btn--dark span:first-child:before {
+    background: #999;
+}
+.load-more:before {
+    background-color: #999;
+}
+.meta--link:hover {
+    color: #1a1b1c
+}
+a.line-link {
+    color: #fff
+}
+
+/* Single Post */
+.single--post-meta {
+    border-top: 4px solid #333;
+}
+.single--post-meta .meta-tags a {
+    color: #fff;
+}
+.single--post-meta .share-buttons a span {
+    color: #ffffff;
+}
+.post--navigation a:hover {
+    color:#1a1b1c
+}
+
+/* Music */
+.page-template-music .content {
+    background: #151617;
+}
+.music-filter ul a {
+    color: #999;
+}
+.music-filter ul li a:before,
+.music-filter ul li a:after {
+    background:#fff;
+}
+.music-filter ul li a.is-active {
+    color: #1a1b1c;
+}
+
+/* Music */
+.page-template-gallery .content {
+    background: #151617;
+}
+.gallery-filter ul a {
+    color: #999;
+}
+.gallery-filter ul li a:before,
+.gallery-filter ul li a:after {
+    background:#fff;
+}
+.gallery-filter ul li a.is-active {
+    color: #1a1b1c;
+}
+
+/* Events */
+.events--list li {
+    background: rgba(0, 0, 0, 0.6);
+    color:#fff;
+}
+.events--list .event--col-title a {
+    color: #fff;
+}
+.events--simple-list a .location {
+    color: #ffffff;
+}
+.events--simple-list a .location > span {
+    color: #aaa;
+}
+.events--more {
+    color: #ffffff;
+}
+.float--event-title-bottom {
+    color: #fff;
+}
+.events-filter ul a {
+    color: #999;
+}
+.events-filter ul li a:before,
+.events-filter ul li a:after {
+    background:#fff;
+}
+.events-filter ul li a.is-active {
+    color: #1a1b1c;
+}
+
+/* Search */
+.search--item h2,
+.search--item h2 a {
+    color:#fff;
+}
+.search--item {
+    border-bottom: 1px solid #222;
+}
+.search--error #searchform #s {
+    color: #fff;
+}
+.search--error #searchform #s::-webkit-input-placeholder {
+    color: #999999;
+}
+.search--error #searchform #s:-moz-placeholder {
+    color: #999999;
+}
+.search--error #searchform #s:-ms-input-placeholder {
+    color: #999999;
+}
+ 
+/* 404 */
+.error404 .content {
+    text-align: center;
+    background: transparent url(../images/pattern-dots-dark.png ) repeat;
+}
+.error404 #searchform #s {
+    color: #fff;
+}
+.error404 #searchform #s::-webkit-input-placeholder {
+    color: #999;
+}
+.error404 #searchform #s:-moz-placeholder {
+    color: #999;
+}
+.error404 #searchform #s:-ms-input-placeholder {
+    color: #999;
+}
+
+/* Comments */
+.comment-message {
+    color: #999;
+}
+.comments-title {
+    color: #fff;
+}
+#respond input::-webkit-input-placeholder, #respond textarea::-webkit-input-placeholder {
+    color: #aaa;
+}
+#respond input:-moz-placeholder, #respond textarea:-moz-placeholder {
+    color: #aaa;
+}
+
+
+/* Shortcodes */
+
+/* Tracklist */
+.sp--tracklist li a.track .track-title {
+    color: #fff;
+}
+.track-col-buttons .track-button {
+    color:#fff;
+    background-color:#353638;
+}
+.sp--tracklist li .track-col.track .track-status {
+    color:#fff;
+}
+/* Review */
+.review {
+    color: #ccc;
+}
+.review--name {
+    color:#fff
+}
+
+/* Share buttons */
+.share-button span {
+    color:#fff;
+}
+/* Details list */
+.details-list {
+    border:1px solid rgba(255, 255, 255, 0.13)
+}
+.details-list li .detail--title {
+    color:#fff
+}
+.details-list li .detail--content {
+    color: #999;
+}
+
+/* Album */
+.music-album--ctrl a {
+    background-color:#1a1b1c
+}
+.music-album--ctrl a:hover {
+    color:#1a1b1c;
+}
+.music-album--cover-wrap {
+    border: 20px solid #333;
+}
+@media only screen and (max-width:480px) {
+    .music-album--cover-wrap {
+        border-width:10px;
+    }
+}
+.music-album--title span {
+    color:#fff;
+}

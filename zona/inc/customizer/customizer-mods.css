@@ -1,0 +1,237 @@
+/* Accent Color */
+
+/* ---- Color */
+a, a > *,
+blockquote:before,
+blockquote cite a,
+blockquote cite a:hover,
+#searchform #searchsubmit i,
+#searchform #searchsubmit i:hover,
+.color,
+#responsive-nav ul li a:hover,
+#responsive-nav ul li i:hover,
+.intro--title h6,
+.intro--music-footer .share-button:hover span,
+.intro--event-details a:hover,
+.intro--event-details h6,
+.single--post-header-date,
+.single--post-header-cats a:hover,
+.single--post-meta .meta-tags a:hover,
+.single--post-meta .share-buttons a:hover span,
+.music--title,
+.music--buttons .music--button a .icon,
+.events--simple-list a:hover span,
+.events--more:hover,
+.layer--events .layer--events-list li a:hover,
+.float--event-title-bottom span,
+.float--event-title-bottom:before,
+.float--event .float--event-row span.float--event-date,
+.gallery--date,
+.gallery--grid article a:hover .gallery--date,
+.error--404-text,
+.logged-in-as a:hover,
+.comment .author a:hover,
+.comment .reply a,
+#reply-title small:hover,
+.footer-copyright a:hover,
+.widget a:hover,
+.widget li a:hover,
+.widget table#wp-calendar #next a:hover,
+.widget table#wp-calendar #prev a:hover,
+.widget_archive li:hover a,
+.widget_categories li:hover a,
+.widget_links li:hover a,
+.widget_meta li:hover a,
+.widget_pages li:hover a,
+.widget_recent_comments li:hover a,
+.widget_recent_entries li:hover a,
+.tweets-widget li a,
+.btn--social:hover span,
+.dark-bg .btn--social:hover span,
+.btn--icon:hover span,
+.dark-bg .btn--icon:hover span,
+.btn--frame, 
+.widget .btn--frame,
+.btn--frame:hover,
+.widget .btn--frame:hover,
+a.line-link:before,
+a:hover .desc-count,
+.mosaic:hover .desc-count,
+.mfp-close:hover,
+.layer--events .layer--events-list li a .date,
+.layer--events .layer--events-list li a:hover,
+.event-countdown.bg--dark .upcoming-locations span, /* <- Shortcodes start */
+.event-countdown.bg--light .upcoming-locations span,
+.share-button:hover span
+{
+	color: [zona_accent_color];
+}
+
+/* ---- Background */
+.layer--close:after,
+.layer--close:before,
+.meta--link:hover,
+.container > article > p > a:after,
+.post--navigation a:hover,
+.music--buttons .music--button a:after,
+.music--buttons .music--button a:before,
+.events--list .event--button,
+.events--list li:nth-child(1)  .event--button:after,
+.events--list li:nth-child(1)  .event--button:before,
+.bg--dark .events--list li:nth-child(1) .event--button:before,
+.bg--dark .events--list li:nth-child(1) .event--button:after,
+.events--list li:nth-child(2)  .event--button:after,
+.events--list li:nth-child(2)  .event--button:before,
+.bg--dark .events--list li:nth-child(2) .event--button:before,
+.bg--dark .events--list li:nth-child(2) .event--button:after,
+.events--list li:nth-child(3)  .event--button:after,
+.events--list li:nth-child(3)  .event--button:before,
+.bg--dark .events--list li:nth-child(3) .event--button:before,
+.bg--dark .events--list li:nth-child(3) .event--button:after,
+.widget button, .widget .button, 
+.widget input[type="button"], 
+.widget input[type="reset"], 
+.widget input[type="submit"],
+.widget_tag_cloud .tagcloud a:hover,
+.widget table#wp-calendar a,
+input[type="submit"],
+button,
+.btn,
+.widget .btn,
+input[type="submit"].btn--dark:hover,
+button.btn--dark:hover,
+input[type="submit"].btn--dark:before, 
+button.btn--dark:before, 
+.btn.btn--dark:before, 
+.widget .btn.btn--dark:before,
+input[type="submit"].btn--dark:after,
+button.btn--dark:after,
+.btn.btn--dark:after,
+.widget .btn.btn--dark:after,
+input[type="submit"].btn--light:hover, 
+button.btn--light:hover,
+input[type="submit"].btn--light:before,
+button.btn--light:before,
+.btn.btn--light:before,
+.widget .btn.btn--light:before,
+input[type="submit"].btn--light:after,
+button.btn--light:after,
+.btn.btn--light:after,
+.widget .btn.btn--light:after,
+.btn--frame span:first-child:after,
+.btn--frame span:first-child:before,
+.layer--events .layer--events-list li a:after,
+.service--box.bg--light:hover .service--text:before, /* <- Shortcodes start */
+.service--box.bg--dark:hover .service--text:before,
+.music-album--ctrl a:hover,
+.music-album--ctrl a.music-album--play,
+.track-col-buttons .track-button:after,
+.track-col-buttons .track-button:before,
+.owl-controls .owl-nav .owl-next:hover,
+.owl-controls .owl-nav .owl-prev:hover
+{
+    background-color: [zona_accent_color];
+}
+
+.mfp-arrow:hover
+{
+    background-color: [zona_accent_color] !important;
+}
+::-moz-selection {
+    background: [zona_accent_color];
+}
+::selection {
+    background: [zona_accent_color];
+}
+
+/* ---- Border Color */
+#searchform #s,
+.music--buttons .music--button a,
+.comment .reply a,
+.widget_archive li:hover:after,
+.widget_categories li:hover:after,
+.widget_links li:hover:after,
+.widget_meta li:hover:after,
+.widget_pages li:hover:after,
+.widget_recent_comments li:hover:after,
+.widget_recent_entries li:hover:after,
+.btn--frame, 
+.widget .btn--frame,
+.btn--frame:hover,
+.widget .btn--frame:hover,
+.btn--frame span:first-child,
+a.line-link:after,
+.price-table.bg--dark .price-table-inner.important-price, /* <- Shortcodes start */
+.price-table.bg--dark:hover .price-table-inner,
+.mc-custom-widget input
+{
+    border-color: [zona_accent_color];
+}
+
+/* ---- Box Shadows */
+.frame-shadow, .image-shadow img,
+.intro--music .intro--cover img,
+.intro--event .intro--cover img,
+.intro--music-event .intro--event-image img,
+.blog--list.article--hover article:hover .article--preview,
+.blog--list.article--hover article.sticky .article--preview,
+.blog--list.blog--list-index article.sticky,
+.blog--grid article:hover .article--preview,
+.blog--grid article.sticky .article--preview,
+.single--media
+{
+    box-shadow: [zona_display_shadows] [zona_accent_color];
+}
+
+/* ---- BTN Frame */
+.btn--frame, .widget .btn--frame {
+    background: transparent;
+}
+
+/* - Dark */
+.btn--frame.btn--dark {
+    border-color: #1a1b1c;
+    color: #1a1b1c;
+    background: transparent;
+}
+.btn--frame.btn--dark:hover {
+   color: #1a1b1c;
+}
+.btn--frame.btn--dark span:first-child {
+    border-right: solid 2px #1a1b1c;
+}
+.btn--frame.btn--dark span:first-child:after, .btn--frame.btn--dark span:first-child:before {
+    background: #1a1b1c;
+}
+
+/* - Light */
+.btn--frame.btn--light {
+    border-color: #fff;
+    color: #fff;
+    background: transparent;
+}
+.btn--frame.btn--light:hover {
+   color: #fff;
+}
+.btn--frame.btn--light span:first-child {
+    border-right: solid 2px #fff;
+}
+.btn--frame.btn--light span:first-child:after, .btn--frame.btn--light span:first-child:before {
+    background: #fff;
+}
+
+/* ---- Events List */
+.events--list li:nth-child(1),
+.bg--dark .events--list li:nth-child(1),
+.events--list li:nth-child(2),
+.bg--dark .events--list li:nth-child(2),
+.events--list li:nth-child(3),
+.bg--dark .events--list li:nth-child(3) {
+    background:[zona_accent_color];
+}
+
+/* ---- Loading Layer Color */
+#WPAjaxLoader,
+#loading-layer {
+    background-color: [zona_loading_layer_color];
+}

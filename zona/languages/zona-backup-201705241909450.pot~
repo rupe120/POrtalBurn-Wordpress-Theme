@@ -1,0 +1,2039 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zona - Music WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-24 19:09+0000\n"
+"POT-Revision-Date: Thu Apr 21 2016 20:53:10 GMT+0200 (Central European "
+"Daylight Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <office@rascals.eu>\n"
+"Language-Team: Rascals Themes <support@rascals.eu>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Language: "
+
+#: 404.php:29
+msgid "Oops! Page was not found."
+msgstr ""
+
+#: 404.php:30
+msgid ""
+"Sorry, something went wrong and we cannot retrieve the page you were looking "
+"for. Maybe try a search?"
+msgstr ""
+
+#: 404.php:34
+msgid "Go to homepage"
+msgstr ""
+
+#: archive.php:52 author.php:52 category.php:51 index.php:111 tag.php:52
+#: taxonomy.php:238 page-templates/blog-grid.php:159
+#: page-templates/blog.php:113 page-templates/events-float.php:207
+#: page-templates/events.php:259 page-templates/gallery-float.php:101
+#: page-templates/gallery.php:124 page-templates/music-float.php:119
+#: page-templates/music.php:162 page-templates/videos-float.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: comments.php:23
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48 admin/panel-main.php:327
+msgid "Comments"
+msgstr ""
+
+#: comments.php:52
+msgid ""
+"Currently there are no comments related to this article. You have a special "
+"honor to be the first commenter. Thanks!"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+msgid "Name*"
+msgstr ""
+
+#: comments.php:70
+msgid "Email*"
+msgstr ""
+
+#: comments.php:73
+msgid "Website URL"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Reply or Comment"
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:84
+msgid "(Cancel reply)"
+msgstr ""
+
+#: comments.php:86 inc/importer/wordpress-importer.php:287
+msgid "Submit"
+msgstr ""
+
+#: comments.php:87
+msgid "* Your email address will not be published."
+msgstr ""
+
+#: comments.php:87
+#, php-format
+msgid "You may use these HTML tags and attributes: %s"
+msgstr ""
+
+#: comments.php:89
+msgid "Your Comment*"
+msgstr ""
+
+#: content-category.php:47 content-search.php:30 index.php:92
+#: inc/helpers.php:588 page-templates/blog-grid.php:131
+#: page-templates/blog.php:94
+msgid "by"
+msgstr ""
+
+#: content-category.php:52 content-search.php:35 index.php:97
+#: inc/helpers.php:593 page-templates/blog-grid.php:136
+#: page-templates/blog.php:99
+msgid "Read more"
+msgstr ""
+
+#: content-custom.php:22
+msgid "Continue reading "
+msgstr ""
+
+#: content-page.php:21 content.php:105
+msgid "...View the rest of this post"
+msgstr ""
+
+#: content-page.php:25 content.php:109
+msgid "Jump to Page"
+msgstr ""
+
+#: content.php:46 content.php:96
+msgid "Post Image"
+msgstr ""
+
+#: functions.php:37
+msgid "PLEASE NOTE: "
+msgstr ""
+
+#: functions.php:37
+msgid ""
+"Set again \"header social icons\" and \"footer social icons\", because they "
+"are not compatible with previous versions. The new \"drag and drop\" method "
+"of setting options is very simple and user friendly."
+msgstr ""
+
+#: functions.php:37
+msgid "Customizer"
+msgstr ""
+
+#: functions.php:97
+msgid "Top menu"
+msgstr ""
+
+#: functions.php:441 inc/importer/init.php:140
+msgid "Rascals Themes - Zona Plugin"
+msgstr ""
+
+#: functions.php:451 inc/importer/init.php:136
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:461
+msgid "Slider Revolution"
+msgstr ""
+
+#: functions.php:475
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:480
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:485
+msgid "SVG Support"
+msgstr ""
+
+#: functions.php:490
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:569
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:571
+msgid "Main sidebar that appears on the left or right."
+msgstr ""
+
+#: functions.php:579
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:581
+msgid "Footer Column 1 that appear on the botton of the page."
+msgstr ""
+
+#: functions.php:589
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:591
+msgid "Footer Column 2 that appear on the botton of the page."
+msgstr ""
+
+#: functions.php:599
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:601
+msgid "Footer Column 3 that appear on the botton of the page."
+msgstr ""
+
+#: header.php:49
+msgid "Click and"
+msgstr ""
+
+#: header.php:50 inc/customizer/customizer-options.php:313
+msgid "Search"
+msgstr ""
+
+#: header.php:130
+msgid "Upcoming"
+msgstr ""
+
+#: header.php:131 admin/panel-main.php:370
+#: inc/customizer/customizer-options.php:341
+msgid "Events"
+msgstr ""
+
+#: header.php:156
+msgid "View More Events"
+msgstr ""
+
+#: index.php:36
+msgid "Here are some news from our band"
+msgstr ""
+
+#: index.php:37
+msgid "Articles"
+msgstr ""
+
+#: index.php:73 taxonomy.php:159 inc/helpers.php:570 inc/helpers.php:697
+#: inc/helpers.php:724 inc/helpers.php:1052 page-templates/blog-grid.php:109
+#: page-templates/blog.php:72 page-templates/gallery-float.php:85
+#: page-templates/gallery.php:102 page-templates/music-float.php:78
+#: page-templates/music.php:109 page-templates/music.php:142
+#: page-templates/videos-float.php:79
+msgid "Post image"
+msgstr ""
+
+#: index.php:101 page-templates/blog-grid.php:140 page-templates/blog.php:103
+msgid "sticky post"
+msgstr ""
+
+#: search.php:53
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: single-zona_gallery.php:148 inc/helpers.php:1185
+msgid "Gallery thumbnail"
+msgstr ""
+
+#: single-zona_gallery.php:164 page-templates/blog-grid.php:153
+#: page-templates/events.php:253 page-templates/gallery.php:118
+#: page-templates/music.php:156
+msgid "Load more"
+msgstr ""
+
+#: single-zona_gallery.php:168
+msgid "Gallery error: Album has no pictures."
+msgstr ""
+
+#: taxonomy.php:195 inc/helpers.php:935 page-templates/events.php:215
+msgid "Past Event"
+msgstr ""
+
+#: taxonomy.php:217 inc/helpers.php:956 page-templates/events.php:237
+msgid "Tickets"
+msgstr ""
+
+#: admin/panel-main.php:19 admin/panel-main.php:26
+msgid "General Settings"
+msgstr ""
+
+#: admin/panel-main.php:32
+msgid "Retina Displays"
+msgstr ""
+
+#: admin/panel-main.php:37
+msgid ""
+"To make this work you need to specify the width and the height of the image "
+"directly and provide the same image twice the size withe the @2x selector "
+"added at the end of the image name. For instance if you want your \"logo."
+"png\" file to be retina compatible just include it in the markup with "
+"specified width and height ( the width and height of the original image in "
+"pixels ) and create a \"logo@2x.png\" file in the same directory that is "
+"twice the resolution."
+msgstr ""
+
+#: admin/panel-main.php:42
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin/panel-main.php:52
+msgid "Google Maps API Key"
+msgstr ""
+
+#: admin/panel-main.php:56
+msgid "Insert your Google Maps API key."
+msgstr ""
+
+#: admin/panel-main.php:61
+msgid "Google Maps Marker"
+msgstr ""
+
+#: admin/panel-main.php:67
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr ""
+
+#: admin/panel-main.php:68
+msgid ""
+"Currently you don't have image, you can add one by clicking on the button "
+"below."
+msgstr ""
+
+#: admin/panel-main.php:69
+msgid "Add Google Map Marker (48px x 56px)."
+msgstr ""
+
+#: admin/panel-main.php:87
+msgid "Fonts"
+msgstr ""
+
+#: admin/panel-main.php:96
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/panel-main.php:100
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/panel-main.php:105
+msgid ""
+"When this option is enabled, the text elements will be automatically "
+"replaced with the Google Web Fonts."
+msgstr ""
+
+#: admin/panel-main.php:108
+msgid "Google Font Code"
+msgstr ""
+
+#: admin/panel-main.php:111
+msgid "Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&subset=latin-ext"
+msgstr ""
+
+#: admin/panel-main.php:114
+msgid "Add Google Fonts family."
+msgstr ""
+
+#: admin/panel-main.php:134
+msgid "Sections"
+msgstr ""
+
+#: admin/panel-main.php:141
+msgid "Music"
+msgstr ""
+
+#: admin/panel-main.php:147
+msgid "Music Player"
+msgstr ""
+
+#: admin/panel-main.php:152
+msgid "Enable music player. NOTE: Zona Plugin must be instaled and activated."
+msgstr ""
+
+#: admin/panel-main.php:157
+msgid "Autoplay"
+msgstr ""
+
+#: admin/panel-main.php:162
+msgid "Autoplay tracklist. NOTE: Autoplay does not work on mobile devices."
+msgstr ""
+
+#: admin/panel-main.php:171
+msgid "Load First Track"
+msgstr ""
+
+#: admin/panel-main.php:176
+msgid "Load first track from tracklist after load list."
+msgstr ""
+
+#: admin/panel-main.php:185
+msgid "Startup Tracklist"
+msgstr ""
+
+#: admin/panel-main.php:194
+msgid "Select startup tracklist."
+msgstr ""
+
+#: admin/panel-main.php:203
+msgid "Show Player on Startup"
+msgstr ""
+
+#: admin/panel-main.php:208
+msgid "Show player on startup."
+msgstr ""
+
+#: admin/panel-main.php:217
+msgid "Show Tracklist on Startup"
+msgstr ""
+
+#: admin/panel-main.php:222
+msgid "Show playlist on startup."
+msgstr ""
+
+#: admin/panel-main.php:231
+msgid "Random Play"
+msgstr ""
+
+#: admin/panel-main.php:236
+msgid "Random play tracks."
+msgstr ""
+
+#: admin/panel-main.php:245
+msgid "Loop Tracklist"
+msgstr ""
+
+#: admin/panel-main.php:250
+msgid "Loop tracklist."
+msgstr ""
+
+#: admin/panel-main.php:259
+msgid "Change Titlebar"
+msgstr ""
+
+#: admin/panel-main.php:264
+msgid "Replace browser titlebar on track title."
+msgstr ""
+
+#: admin/panel-main.php:273
+msgid "Player Skin"
+msgstr ""
+
+#: admin/panel-main.php:277
+msgid "Select player skin."
+msgstr ""
+
+#: admin/panel-main.php:290
+msgid "Soundcloud Client ID"
+msgstr ""
+
+#: admin/panel-main.php:294
+msgid "Add your Soundcloud ID"
+msgstr ""
+
+#: admin/panel-main.php:303
+msgid "Startup Volume"
+msgstr ""
+
+#: admin/panel-main.php:311
+msgid "Set startup volume."
+msgstr ""
+
+#: admin/panel-main.php:333
+msgid "Comment Date Format"
+msgstr ""
+
+#: admin/panel-main.php:337
+msgid "Enter your custom comment date."
+msgstr ""
+
+#: admin/panel-main.php:341
+msgid "DISQUS Comments"
+msgstr ""
+
+#: admin/panel-main.php:346
+msgid "Enable DISQUS comments. Replace default Wordpress comments."
+msgstr ""
+
+#: admin/panel-main.php:351
+msgid "DISQUS Shortname"
+msgstr ""
+
+#: admin/panel-main.php:355
+msgid "Enter DISQUS Website's Shortname."
+msgstr ""
+
+#: admin/panel-main.php:376
+msgid "Event Date Format"
+msgstr ""
+
+#: admin/panel-main.php:380
+msgid "Enter your custom event date."
+msgstr ""
+
+#: admin/panel-main.php:385
+msgid "Event Time Format"
+msgstr ""
+
+#: admin/panel-main.php:389
+msgid ""
+"Enter your custom event time e.g: H:i. If time field isn't empty the then "
+"the time is displayed after event date."
+msgstr ""
+
+#: admin/panel-main.php:401
+msgid "Permalinks"
+msgstr ""
+
+#: admin/panel-main.php:408
+msgid "Music Slug"
+msgstr ""
+
+#: admin/panel-main.php:412 admin/panel-main.php:419 admin/panel-main.php:429
+#: admin/panel-main.php:436 admin/panel-main.php:446 admin/panel-main.php:453
+#: admin/panel-main.php:462
+msgid ""
+"Enter post slug name. No special characters. No spaces. IMPORTANT: When you "
+"change post slug name, you have to go to: WordPress Settings > Permalinks "
+"and save settings."
+msgstr ""
+
+#: admin/panel-main.php:415
+msgid "Music Categories Slug"
+msgstr ""
+
+#: admin/panel-main.php:425
+msgid "Events Slug"
+msgstr ""
+
+#: admin/panel-main.php:432
+msgid "Events Categories Slug"
+msgstr ""
+
+#: admin/panel-main.php:442
+msgid "Gallery Slug"
+msgstr ""
+
+#: admin/panel-main.php:449
+msgid "Gallery Categories Slug"
+msgstr ""
+
+#: admin/panel-main.php:458
+msgid "Video Slug"
+msgstr ""
+
+#: admin/panel-main.php:479
+msgid "Advanced"
+msgstr ""
+
+#: admin/panel-main.php:488
+msgid "Ajax"
+msgstr ""
+
+#: admin/panel-main.php:494
+msgid "Ajax Load"
+msgstr ""
+
+#: admin/panel-main.php:499
+msgid "Enable if you want ajax loading."
+msgstr ""
+
+#: admin/panel-main.php:504
+msgid "Asynchronous"
+msgstr ""
+
+#: admin/panel-main.php:509
+msgid "Asynchronous AJAX."
+msgstr ""
+
+#: admin/panel-main.php:518
+msgid "Ajax Cache"
+msgstr ""
+
+#: admin/panel-main.php:523
+msgid "AJAX Cache."
+msgstr ""
+
+#: admin/panel-main.php:532
+msgid "AJAX Filter"
+msgstr ""
+
+#: admin/panel-main.php:538
+msgid ""
+"Add selectors (Note: divide links with linebreaks (Enter)). These elements "
+"will not be processed by AJAX."
+msgstr ""
+
+#: admin/panel-main.php:547
+msgid "AJAX Reload Scripts"
+msgstr ""
+
+#: admin/panel-main.php:553
+msgid ""
+"Add strings for reloaded scripts (Note: divide links with linebreaks (Enter))"
+". These scripts will be reloaded after page loaded by AJAX."
+msgstr ""
+
+#: admin/panel-main.php:562
+msgid "AJAX Reload Containers"
+msgstr ""
+
+#: admin/panel-main.php:568
+msgid ""
+"Add strings for reloaded containers (Note: divide links with linebreaks "
+"(Enter)). These containers will be reloaded after page loaded by AJAX."
+msgstr ""
+
+#: admin/panel-main.php:576
+msgid "AJAX Exclude Links"
+msgstr ""
+
+#: admin/panel-main.php:582
+msgid ""
+"Add links that should be excluded from AJAX loader (Note: divide links with "
+"linebreaks (Enter)). These pages will not be loaded by AJAX."
+msgstr ""
+
+#: admin/panel-main.php:590
+msgid "AJAX Events"
+msgstr ""
+
+#: admin/panel-main.php:596
+msgid ""
+"Add Javascript events (Note: divide links with linebreaks (Enter)). These "
+"events will be removed after page page by AJAX."
+msgstr ""
+
+#: admin/panel-main.php:611
+msgid "Import/Export"
+msgstr ""
+
+#: admin/panel-main.php:653 admin/classes/MuttleyPanel.php:166
+msgid "Theme Options"
+msgstr ""
+
+#: inc/custom-intro.php:181 inc/custom-intro.php:337
+msgid "Artist Image"
+msgstr ""
+
+#: inc/custom-intro.php:209
+msgid "Available Now on:"
+msgstr ""
+
+#: inc/custom-intro.php:214
+msgid "Share on:"
+msgstr ""
+
+#: inc/custom-intro.php:295
+msgid "Hours and date:"
+msgstr ""
+
+#: inc/custom-intro.php:296
+msgid "at"
+msgstr ""
+
+#: inc/custom-intro.php:300
+msgid "Place:"
+msgstr ""
+
+#: inc/custom-intro.php:306
+msgid "Tickets:"
+msgstr ""
+
+#: inc/custom-intro.php:313
+msgid "Share:"
+msgstr ""
+
+#: inc/custom-intro.php:424
+msgctxt "Featured News"
+msgid "Featured Articles"
+msgstr ""
+
+#: inc/custom-intro.php:435
+msgid "read more"
+msgstr ""
+
+#: inc/disqus.php:30
+msgid "Leave"
+msgstr ""
+
+#: inc/disqus.php:30
+msgid " a Reply"
+msgstr ""
+
+#: inc/helpers.php:54 inc/helpers.php:56
+#: inc/customizer/customizer-options.php:292
+msgid "Logo Image"
+msgstr ""
+
+#: inc/helpers.php:138
+msgid "Reply"
+msgstr ""
+
+#: inc/helpers.php:143
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/helpers.php:179
+msgid "Read More"
+msgstr ""
+
+#: inc/helpers.php:271
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/helpers.php:406 inc/helpers.php:408
+msgid "Image button"
+msgstr ""
+
+#: inc/tag-intro.php:21
+msgid "Here are some news from our music site."
+msgstr ""
+
+#: inc/tag-intro.php:26
+msgid "Category"
+msgstr ""
+
+#: inc/tag-intro.php:32
+msgid "Author"
+msgstr ""
+
+#: inc/tag-intro.php:37
+msgid "Tag"
+msgstr ""
+
+#: inc/tag-intro.php:42
+msgid "Music Category"
+msgstr ""
+
+#: inc/tag-intro.php:47
+msgid "Events Category"
+msgstr ""
+
+#: inc/tag-intro.php:60
+msgid "Archives"
+msgstr ""
+
+#: inc/tag-intro.php:65
+msgid "Search results for:"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "&larr; Prev"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "Next Article"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Previous Article"
+msgstr ""
+
+#: inc/template-tags.php:252
+msgid "Next:"
+msgstr ""
+
+#: inc/template-tags.php:255
+msgid "Previous:"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#: page-templates/blog-grid.php:52 page-templates/events.php:60
+#: page-templates/gallery.php:47 page-templates/music.php:49
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr ""
+
+#. Name of the template
+msgid "Blog List"
+msgstr ""
+
+#. Name of the template
+msgid "Events - Floating"
+msgstr ""
+
+#: page-templates/events-float.php:183
+msgid "Event image"
+msgstr ""
+
+#: page-templates/events-float.php:212 page-templates/gallery-float.php:107
+#: page-templates/music-float.php:125 page-templates/videos-float.php:101
+msgid "Scroll to discover"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery - Floating"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Music - Floating"
+msgstr ""
+
+#. Name of the template
+msgid "Videos - Floating"
+msgstr ""
+
+#: admin/classes/MuttleyPanel.php:410
+msgid "Save Settings"
+msgstr ""
+
+#: admin/classes/MuttleyPanel.php:614
+msgid "Export Data"
+msgstr ""
+
+#: admin/classes/MuttleyPanel.php:632
+msgid "Import Data"
+msgstr ""
+
+#: admin/classes/MuttleyPanel.php:639
+msgid "Import data"
+msgstr ""
+
+#: admin/classes/MuttleyPanel.php:640
+msgid ""
+"Click on \"Import data\" button and paste in the box above previously "
+"exported data, and press the save button."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:30
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:31
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:32
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:33
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:34
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:35
+msgid "Mixcloud"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:36
+msgid "Bandcamp"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:37
+msgid "Spotify"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:38
+msgid "lastfm"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:39
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:40
+msgid "VK"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:41
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:42
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:43
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:44
+msgid "Deviantart"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:45
+msgid "Github"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:46
+msgid "Blogger"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:47
+msgid "Yahoo"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:48
+msgid "Finder"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:49
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:50
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:51
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:52
+msgid "Amazon"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:62
+msgid "Personalizing"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:63
+msgid "This panel will provide all the options of the personalizing."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:71
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:83
+msgid "Theme Skin"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:91
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:92
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:100
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:115
+msgid "Loading Layer Color"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:132
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:145
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:158
+msgid "Elements"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:170
+msgid "Shadows"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:178
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:179
+msgid "No"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:181
+msgid "Display shadows under elements, by default are yellow."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:189
+msgid "Animations"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:201
+msgid "Loading Animation"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:213
+msgid "Content Animations"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:228
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:229
+msgid "This panel will provide all the options of the header."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:238
+msgid "Header Styles"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:251
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:258
+msgid "Advanced Center"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:259
+msgid "Advanced Center Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:260
+msgid "Advanced Left"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:261
+msgid "Advanced Left Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:262
+msgid "Advanced Left 02"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:263
+msgid "Advanced Left 02 Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:264
+msgid "Simple Left Static"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:265
+msgid "Simple Left Static Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:266
+msgid "Simple Left Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:267
+msgid "Simple Left Fixed Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:268
+msgid "Simple Left Overlay"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:269
+msgid "Simple Left Overlay Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:280
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:326
+msgid "Display Search Button"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:353
+msgid "Display Upcoming Events"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:365
+#: inc/customizer/customizer-options.php:379
+msgid "Events link"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:371
+#: inc/customizer/customizer-options.php:385
+#: inc/customizer/customizer-options.php:455
+#: inc/customizer/customizer-options.php:653
+msgid ""
+"Add custom link to events page. By default link redirect to layer with "
+"upcoming events list."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:395
+#: inc/customizer/customizer-options.php:443
+#: inc/customizer/customizer-options.php:593
+#: inc/customizer/customizer-options.php:641
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:407
+#: inc/customizer/customizer-options.php:605
+msgid "Social Buttons"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:414
+#: inc/customizer/customizer-options.php:612
+msgid "Social Button:"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:444
+#: inc/customizer/customizer-options.php:642
+msgid "Select your social media button"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:450
+#: inc/customizer/customizer-options.php:648
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:451
+#: inc/customizer/customizer-options.php:649
+msgid "Type your social link"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:464
+#: inc/customizer/customizer-options.php:696
+msgid "WPML"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:476
+#: inc/customizer/customizer-options.php:708
+msgid "Display Language Switcher"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:482
+msgid ""
+"Display WPML plugin language switcher above main header on the right side. "
+"Please note WPML plugin must be installed."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:488
+#: inc/customizer/customizer-options.php:720
+msgid "Switcher Display"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:495
+#: inc/customizer/customizer-options.php:727
+msgid "Language codes"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:496
+#: inc/customizer/customizer-options.php:728
+msgid "Language flags"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:497
+#: inc/customizer/customizer-options.php:729
+msgid "Language codes and flags"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:508
+msgid "Cart Button"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:521
+msgid "Display Cart"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:534
+msgid "Cart Link"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:542
+msgid "Shop page"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:543
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:555
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:556
+msgid "This panel will provide all the options of the footer."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:566
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:578
+msgid "Display Footer Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:662
+#: inc/customizer/customizer-options.php:674
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:714
+msgid ""
+"Display WPML plugin language switcher above main footer on the right side. "
+"Please note WPML plugin must be installed."
+msgstr ""
+
+#: inc/importer/init.php:110 inc/importer/init.php:128
+msgid ""
+"After you import this demo, you will have to import the REVOLUTION SLIDER "
+"separately. More information can be found in theme documentation, section "
+"\"Revolution Slider\""
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:245
+msgid "Before you start"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:246
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. When you import the "
+"data following things will happen:"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:251
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:252
+msgid "No WordPress settings will be modified."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:253
+msgid "Posts, pages, some images, some widgets and menus will get imported."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:254
+msgid ""
+"Images will be downloaded from our server, these images are copyrighted and "
+"are for demo use only."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:255
+msgid "Please click import only once and wait."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:256
+msgid ""
+"Be patient and wait for the import process to complete. It can take up to 5-"
+"7 minutes."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:269
+msgid ""
+"Before you begin, you need to install and activate the following plugins"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:269
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:299
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:326
+msgid "Import Again"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:329
+msgid "Import"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:352
+msgid "Coming Soon!"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:363
+msgid ""
+"Please be patient and wait for the import process to complete. It can take "
+"up to 5-7 minutes."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:376
+msgid "Well Done! Demo content has been imported."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:378
+msgid "Customize your theme"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:643
+msgid ""
+"The XML file containing the dummy content is not available or could not be "
+"read .. You might want to try to set the file permission to chmod 755. If "
+"this doesn't work please use the Wordpress importer and import the XML file "
+"(should be located in your download .zip: Sample Content folder) manually."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:685
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:743
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:817
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:839
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:862
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:911
+msgid "Imported"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:914
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/importer/MuttleyImporter.php:921
+msgid "No Title"
+msgstr ""
+
+#: inc/importer/parsers.php:47 inc/importer/parsers.php:68
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/importer/parsers.php:48
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/importer/parsers.php:72 inc/importer/parsers.php:77
+#: inc/importer/parsers.php:267 inc/importer/parsers.php:456
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:135
+#: inc/importer/wordpress-importer.php:144
+#: inc/importer/wordpress-importer.php:195
+#: inc/importer/wordpress-importer.php:199
+#: inc/importer/wordpress-importer.php:208
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:136
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:200
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:216
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:241
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:267
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:268
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:270
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:280
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:283
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:300
+msgid "Import author:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:311
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:314
+msgid "as a new user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:325
+msgid "- Select -"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:375
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:462
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:506
+#: inc/importer/wordpress-importer.php:632
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:528
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:549
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:604
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:750
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:757
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:820
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:833
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:891
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:904
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:909
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:915
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1015
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1022
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1037
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1038
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/fields/add_image/add_image.php:118
+msgid "Media libary"
+msgstr ""
+
+#: admin/fields/add_image/add_image.php:119
+msgid "External link"
+msgstr ""
+
+#: admin/fields/add_image/add_image.php:142
+msgid "Preview Image"
+msgstr ""
+
+#: admin/fields/sortable_list/sortable_list.php:63
+msgid "Add New Item"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:198
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:199
+#: inc/customizer/customizer-class/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:200
+#: inc/customizer/customizer-class/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:201
+#, php-format
+msgid "%s Reset"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr ""
+
+#: inc/customizer/customizer-class/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr ""
+
+#. Name of the theme
+msgid "Zona"
+msgstr ""
+
+#. Description of the theme
+msgid "Multipurpose Music Theme."
+msgstr ""
+
+#. URI of the theme
+msgid "http://zona.rascalsthemes.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Rascals Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/rascals"
+msgstr ""
